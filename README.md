@@ -8,7 +8,7 @@
 
 | Платформа | Актуальная версия | Требования | Скачать |
 | --- | --- | --- | --- |
-| Windows | [1.3.12](https://github.com/CTPavel/CTFlow/releases/tag/v1.3.12) | Windows 10 1809 или новее / Windows 11, x64 | [Установщик](https://github.com/CTPavel/CTFlow/releases/latest/download/CTFlow-Setup.exe) · [ZIP](https://github.com/CTPavel/CTFlow/releases/download/v1.3.12/CTFlow-1.3.12-win-x64.zip) |
+| Windows | [1.3.13](https://github.com/CTPavel/CTFlow/releases/tag/v1.3.13) | Windows 10 1809 или новее / Windows 11, x64 | [Установщик](https://github.com/CTPavel/CTFlow/releases/latest/download/CTFlow-Setup.exe) · [ZIP](https://github.com/CTPavel/CTFlow/releases/download/v1.3.13/CTFlow-1.3.13-win-x64.zip) |
 | Android | [0.7.12](https://github.com/CTPavel/CTFlow/releases/tag/android-v0.7.12) | Android 8.0 или новее, ARM64 | [APK](https://github.com/CTPavel/CTFlow/releases/download/android-v0.7.12/CTFlow-Android-v0.7.12-arm64.apk) |
 
 Все версии доступны в [Releases](https://github.com/CTPavel/CTFlow/releases). Постоянная ссылка на Android APK: [CTFlow-Android-arm64.apk](https://github.com/CTPavel/CTFlow/releases/download/android-latest/CTFlow-Android-arm64.apk).
@@ -17,7 +17,7 @@ Windows и Android обновляются независимо. Метка GitHu
 
 ## Возможности
 
-- импорт персональной подписки, её обновление и отображение срока действия и трафика;
+- импорт и замена персональной подписки, её обновление и отображение срока действия и трафика;
 - список серверов, проверка задержки, внешнего IP и доступности соединения;
 - VLESS/REALITY, VMess, Trojan, Shadowsocks, SOCKS5 и Hysteria2;
 - маршрутизация по приложениям и доменам, исключения из VPN;
