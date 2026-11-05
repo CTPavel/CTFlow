@@ -8,8 +8,8 @@
 
 | Платформа | Актуальная версия | Требования | Скачать |
 | --- | --- | --- | --- |
-| Windows | [1.3.15](https://github.com/CTPavel/CTFlow/releases/tag/v1.3.15) | Windows 10 1809 или новее / Windows 11, x64 | [Установщик](https://github.com/CTPavel/CTFlow/releases/latest/download/CTFlow-Setup.exe) · [ZIP](https://github.com/CTPavel/CTFlow/releases/download/v1.3.15/CTFlow-1.3.15-win-x64.zip) |
-| Android | [0.7.14](https://github.com/CTPavel/CTFlow/releases/tag/android-v0.7.14) | Android 8.0 или новее, ARM64 | [APK](https://github.com/CTPavel/CTFlow/releases/download/android-v0.7.14/CTFlow-Android-v0.7.14-arm64.apk) |
+| Windows | [1.3.16](https://github.com/CTPavel/CTFlow/releases/tag/v1.3.16) | Windows 10 1809 или новее / Windows 11, x64 | [Установщик](https://github.com/CTPavel/CTFlow/releases/latest/download/CTFlow-Setup.exe) · [ZIP](https://github.com/CTPavel/CTFlow/releases/download/v1.3.16/CTFlow-1.3.16-win-x64.zip) |
+| Android | [0.7.15](https://github.com/CTPavel/CTFlow/releases/tag/android-v0.7.15) | Android 8.0 или новее, ARM64 | [APK](https://github.com/CTPavel/CTFlow/releases/download/android-v0.7.15/CTFlow-Android-v0.7.15-arm64.apk) |
 
 Все версии доступны в [Releases](https://github.com/CTPavel/CTFlow/releases). Постоянная ссылка на Android APK: [CTFlow-Android-arm64.apk](https://github.com/CTPavel/CTFlow/releases/download/android-latest/CTFlow-Android-arm64.apk).
 
