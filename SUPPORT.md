@@ -1,6 +1,6 @@
 # Поддержка CTFlow
 
-Официальный канал: Telegram [@CTPavel](https://t.me/CTPavel).
+Напишите в Telegram: бот CTFlow [@ctflowhelpbot](https://t.me/ctflowhelpbot). Можно также написать на [noreply.ctflow@gmail.com](mailto:noreply.ctflow@gmail.com).
 
 ## Перед обращением
 

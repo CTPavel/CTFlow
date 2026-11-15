@@ -59,7 +59,7 @@ CTFlow не содержит рекламных SDK и встроенной ан
 - `www.gstatic.com` / `connectivitycheck.gstatic.com` и `1.1.1.1` — проверка фактической доступности сети и туннеля;
 - `api.github.com`, `github.com` и `githubusercontent.com` — проверка и загрузка официальных обновлений;
 - Speedtest.net или Яндекс Интернетометр — только при открытии проверки скорости пользователем;
-- `t.me/CTPavel` — только при открытии ссылки поддержки.
+- `t.me/ctflowhelpbot` — только при открытии ссылки поддержки.
 
 Android во время активного VPN периодически проверяет работоспособность туннеля и повторяет проверку после смены сети. Это необходимо для автоматического восстановления соединения.
 
@@ -81,4 +81,4 @@ CTFlow не продаёт пользовательские данные. Тех
 
 ## Контакты
 
-Telegram: [@CTPavel](https://t.me/CTPavel)
+Telegram: бот CTFlow [@ctflowhelpbot](https://t.me/ctflowhelpbot). По вопросам персональных данных можно написать на [noreply.ctflow@gmail.com](mailto:noreply.ctflow@gmail.com).

@@ -94,7 +94,7 @@ Windows и Android обновляются независимо. Метка GitHu
 
 Журналы не отправляются автоматически. Перед передачей в поддержку удалите персональные ссылки, UUID и ключи.
 
-Telegram: [@CTPavel](https://t.me/CTPavel). Подробные шаги — в [инструкции поддержки](SUPPORT.md).
+Поддержка в Telegram: бот CTFlow [@ctflowhelpbot](https://t.me/ctflowhelpbot). Почта: [noreply.ctflow@gmail.com](mailto:noreply.ctflow@gmail.com). Подробные шаги — в [инструкции поддержки](SUPPORT.md).
 
 ## Документы
 
